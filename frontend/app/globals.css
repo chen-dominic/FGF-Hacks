@@ -4,3 +4,18 @@
   --color-fgf: #7AC142;
   --color-dark: #0B1006;
 }
+
+.message {
+  animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

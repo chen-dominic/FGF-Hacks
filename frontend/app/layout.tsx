@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FGF Hacks",
-  description: "FGF HACKATHON",
+  title: "DashAI",
+  description: "DashAI",
 };
 
 export default function RootLayout({
