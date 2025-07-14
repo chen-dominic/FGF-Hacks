@@ -1,0 +1,111 @@
+date,trend_keyword,search_volume,region,category,growth_rate,week_number,year
+1/1/2024,artisan bread,73,United States,Bakery & Bread,35,1,2024
+1/1/2024,sourdough starter,84,United States,Bakery & Bread,52,1,2024
+1/1/2024,gluten-free baking,67,United States,Bakery & Bread,28,1,2024
+1/1/2024,croissant making,59,United States,Pastry & Desserts,41,1,2024
+1/1/2024,vegan baking,71,United States,Specialty Baking,46,1,2024
+1/8/2024,french pastry,56,United States,Pastry & Desserts,33,2,2024
+1/8/2024,whole grain bread,62,United States,Bakery & Bread,29,2,2024
+1/8/2024,danish pastry,48,United States,Pastry & Desserts,37,2,2024
+1/8/2024,organic flour,75,United States,Baking Ingredients,44,2,2024
+1/8/2024,cake decorating,81,United States,Cake & Desserts,58,2,2024
+1/15/2024,bread machine,69,United States,Baking Equipment,31,3,2024
+1/15/2024,sugar-free desserts,64,United States,Specialty Baking,39,3,2024
+1/15/2024,brioche recipe,52,United States,Bakery & Bread,42,3,2024
+1/15/2024,chocolate croissant,78,United States,Pastry & Desserts,49,3,2024
+1/15/2024,keto baking,66,United States,Specialty Baking,55,3,2024
+1/22/2024,fresh bagels,57,United States,Bakery & Bread,26,4,2024
+1/22/2024,muffin recipes,73,United States,Quick Breads,38,4,2024
+1/22/2024,scone varieties,45,United States,Pastry & Desserts,34,4,2024
+1/22/2024,local bakery,82,United States,Local Food,62,4,2024
+1/22/2024,holiday cookies,61,United States,Seasonal Baking,47,4,2024
+1/29/2024,focaccia bread,54,United States,Bakery & Bread,41,5,2024
+1/29/2024,eclair pastry,43,United States,Pastry & Desserts,29,5,2024
+1/29/2024,pretzel making,58,United States,Specialty Bread,36,5,2024
+1/29/2024,almond croissant,65,United States,Pastry & Desserts,51,5,2024
+1/29/2024,handmade pasta,72,United States,Artisan Foods,43,5,2024
+2/5/2024,valentine cake,89,United States,Seasonal Baking,73,6,2024
+2/5/2024,red velvet cupcake,76,United States,Cake & Desserts,56,6,2024
+2/5/2024,heart-shaped cookies,68,United States,Seasonal Baking,64,6,2024
+2/5/2024,romantic desserts,71,United States,Specialty Desserts,48,6,2024
+2/5/2024,pink frosting,54,United States,Cake Decorating,39,6,2024
+2/12/2024,cinnamon rolls,83,United States,Sweet Breads,45,7,2024
+2/12/2024,banana bread,79,United States,Quick Breads,42,7,2024
+2/12/2024,pie crust,67,United States,Pastry Basics,37,7,2024
+2/12/2024,lemon bars,58,United States,Bar Desserts,53,7,2024
+2/12/2024,fresh yeast,49,United States,Baking Ingredients,31,7,2024
+2/19/2024,pumpernickel bread,41,United States,Specialty Bread,28,8,2024
+2/19/2024,macarons recipe,73,United States,French Pastry,59,8,2024
+2/19/2024,cheesecake,85,United States,Cake & Desserts,47,8,2024
+2/19/2024,cookie dough,76,United States,Cookie Making,54,8,2024
+2/19/2024,bread flour,62,United States,Baking Ingredients,33,8,2024
+2/26/2024,rye bread,38,United States,Specialty Bread,25,9,2024
+2/26/2024,tiramisu,69,United States,Italian Desserts,44,9,2024
+2/26/2024,cannoli filling,51,United States,Italian Pastry,38,9,2024
+2/26/2024,biscotti recipe,46,United States,Italian Cookies,32,9,2024
+2/26/2024,espresso cake,64,United States,Coffee Desserts,49,9,2024
+3/4/2024,st patricks cookies,78,United States,Seasonal Baking,67,10,2024
+3/4/2024,irish soda bread,72,United States,Traditional Bread,58,10,2024
+3/4/2024,green frosting,56,United States,Cake Decorating,45,10,2024
+3/4/2024,shamrock cookies,63,United States,Seasonal Baking,52,10,2024
+3/4/2024,guinness cake,48,United States,Specialty Cake,39,10,2024
+3/11/2024,spring cookies,69,United States,Seasonal Baking,41,11,2024
+3/11/2024,carrot cake,81,United States,Cake & Desserts,46,11,2024
+3/11/2024,lemon cake,74,United States,Citrus Desserts,53,11,2024
+3/11/2024,flower decorating,67,United States,Cake Decorating,48,11,2024
+3/11/2024,easter bread,58,United States,Holiday Bread,62,11,2024
+3/18/2024,hot cross buns,65,United States,Holiday Bread,59,12,2024
+3/18/2024,easter cookies,77,United States,Seasonal Baking,64,12,2024
+3/18/2024,bunny cake,71,United States,Novelty Cakes,57,12,2024
+3/18/2024,egg bread,52,United States,Holiday Bread,43,12,2024
+3/18/2024,pastel frosting,59,United States,Cake Decorating,48,12,2024
+3/25/2024,challah bread,44,United States,Traditional Bread,36,13,2024
+3/25/2024,matzo recipe,37,United States,Religious Baking,29,13,2024
+3/25/2024,passover cake,41,United States,Holiday Desserts,33,13,2024
+3/25/2024,unleavened bread,35,United States,Religious Baking,27,13,2024
+3/25/2024,kosher baking,39,United States,Specialty Baking,31,13,2024
+4/1/2024,april fools cake,68,United States,Novelty Desserts,54,14,2024
+4/1/2024,surprise desserts,61,United States,Novelty Desserts,47,14,2024
+4/1/2024,trick cookies,55,United States,Fun Baking,42,14,2024
+4/1/2024,unusual flavors,49,United States,Creative Baking,38,14,2024
+4/1/2024,prank pastries,43,United States,Novelty Desserts,35,14,2024
+4/8/2024,spring pastries,72,United States,Seasonal Pastry,45,15,2024
+4/8/2024,strawberry tart,79,United States,Fruit Desserts,58,15,2024
+4/8/2024,fresh fruit cake,66,United States,Seasonal Cake,41,15,2024
+4/8/2024,berry muffins,73,United States,Seasonal Baking,49,15,2024
+4/8/2024,garden herbs bread,54,United States,Artisan Bread,37,15,2024
+4/15/2024,mothers day cake,85,United States,Holiday Desserts,71,16,2024
+4/15/2024,floral decorating,78,United States,Cake Decorating,63,16,2024
+4/15/2024,elegant pastries,67,United States,Special Occasion,52,16,2024
+4/15/2024,tea cakes,59,United States,Afternoon Tea,44,16,2024
+4/15/2024,petit fours,52,United States,French Pastry,39,16,2024
+4/22/2024,graduation cake,74,United States,Celebration Cakes,56,17,2024
+4/22/2024,cap cookies,68,United States,Themed Cookies,48,17,2024
+4/22/2024,school colors,61,United States,Custom Decorating,43,17,2024
+4/22/2024,diploma cake,55,United States,Novelty Cakes,41,17,2024
+4/22/2024,party desserts,82,United States,Event Catering,59,17,2024
+4/29/2024,cinco de mayo,69,United States,Cultural Baking,51,18,2024
+4/29/2024,tres leches cake,76,United States,Latin Desserts,62,18,2024
+4/29/2024,churros recipe,83,United States,Mexican Pastry,67,18,2024
+4/29/2024,conchas bread,57,United States,Mexican Bread,44,18,2024
+4/29/2024,dulce de leche,71,United States,Latin Flavors,55,18,2024
+5/6/2024,kentucky derby,64,United States,Event Themed,47,19,2024
+5/6/2024,bourbon cake,58,United States,Alcohol Infused,42,19,2024
+5/6/2024,mint julep,52,United States,Themed Flavors,38,19,2024
+5/6/2024,horse cookies,46,United States,Novelty Cookies,34,19,2024
+5/6/2024,southern desserts,73,United States,Regional Baking,56,19,2024
+5/13/2024,mothers day brunch,87,United States,Holiday Catering,73,20,2024
+5/13/2024,elegant cakes,79,United States,Special Occasion,64,20,2024
+5/13/2024,brunch pastries,74,United States,Morning Baking,58,20,2024
+5/13/2024,mimosa cake,66,United States,Alcohol Infused,49,20,2024
+5/13/2024,rose flavoring,59,United States,Floral Baking,45,20,2024
+5/20/2024,memorial day,71,United States,Patriotic Baking,54,21,2024
+5/20/2024,flag cake,78,United States,Patriotic Desserts,62,21,2024
+5/20/2024,red white blue,85,United States,Themed Decorating,69,21,2024
+5/20/2024,berry desserts,82,United States,Seasonal Fruit,65,21,2024
+5/20/2024,picnic treats,76,United States,Outdoor Events,58,21,2024
+5/27/2024,summer pastries,68,United States,Seasonal Baking,43,22,2024
+5/27/2024,light desserts,72,United States,Summer Treats,51,22,2024
+5/27/2024,fruit tarts,79,United States,Fresh Fruit,61,22,2024
+5/27/2024,no-bake cookies,74,United States,Easy Baking,56,22,2024
+5/27/2024,frozen desserts,81,United States,Cold Treats,63,22,2024

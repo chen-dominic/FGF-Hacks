@@ -1,0 +1,108 @@
+date,supplier,ingredient_name,category,cost_per_unit,unit,availability,quality_score,lead_time_days,minimum_order
+1/1/2024,King Arthur Flour Co,Bread Flour,Flour & Grains,0.89,lb,Available,4.8,5,50
+1/1/2024,King Arthur Flour Co,All-Purpose Flour,Flour & Grains,0.78,lb,Available,4.7,5,50
+1/1/2024,Premium Dairy Supply,Unsalted Butter,Dairy Products,3.45,lb,Available,4.9,2,25
+1/1/2024,Premium Dairy Supply,Heavy Cream,Dairy Products,2.89,quart,Available,4.6,2,12
+1/1/2024,Farm Fresh Eggs Inc,Large Eggs,Dairy Products,2.34,dozen,Available,4.8,1,24
+1/1/2024,Sweet Supply Co,Granulated Sugar,Sweeteners,0.67,lb,Available,4.5,7,100
+1/1/2024,Sweet Supply Co,Brown Sugar,Sweeteners,0.89,lb,Available,4.4,7,50
+1/1/2024,European Imports,Active Dry Yeast,Leavening Agents,12.45,lb,Available,4.9,10,5
+1/1/2024,European Imports,Instant Yeast,Leavening Agents,14.67,lb,Available,4.8,10,5
+1/1/2024,Artisan Chocolate Co,Dark Chocolate Chips,Chocolate & Cocoa,4.23,lb,Available,4.9,14,10
+1/1/2024,Artisan Chocolate Co,Cocoa Powder,Chocolate & Cocoa,3.78,lb,Available,4.7,14,20
+1/1/2024,Vanilla Extract Inc,Pure Vanilla Extract,Flavorings,23.45,16oz,Available,4.8,21,6
+1/8/2024,King Arthur Flour Co,Whole Wheat Flour,Flour & Grains,0.95,lb,Available,4.6,5,50
+1/8/2024,King Arthur Flour Co,Rye Flour,Flour & Grains,1.12,lb,Available,4.5,5,25
+1/8/2024,Premium Dairy Supply,Cream Cheese,Dairy Products,2.67,8oz,Available,4.7,2,24
+1/8/2024,Premium Dairy Supply,Sour Cream,Dairy Products,1.89,16oz,Available,4.4,2,18
+1/8/2024,Farm Fresh Eggs Inc,Egg Whites,Dairy Products,3.45,32oz,Available,4.6,1,12
+1/8/2024,Sweet Supply Co,Powdered Sugar,Sweeteners,1.23,lb,Available,4.3,7,50
+1/8/2024,Sweet Supply Co,Honey,Sweeteners,4.56,16oz,Available,4.8,14,12
+1/8/2024,European Imports,Baking Powder,Leavening Agents,2.89,12oz,Available,4.7,7,24
+1/8/2024,European Imports,Baking Soda,Leavening Agents,1.45,16oz,Available,4.6,7,36
+1/8/2024,Artisan Chocolate Co,White Chocolate Chips,Chocolate & Cocoa,4.67,lb,Available,4.8,14,10
+1/8/2024,Artisan Chocolate Co,Semi-Sweet Chocolate,Chocolate & Cocoa,3.89,lb,Available,4.9,14,15
+1/15/2024,Nuts & Fruits Direct,Almonds Sliced,Nuts & Seeds,6.78,lb,Available,4.7,7,15
+1/15/2024,Nuts & Fruits Direct,Walnuts Chopped,Nuts & Seeds,7.23,lb,Available,4.6,7,10
+1/15/2024,Nuts & Fruits Direct,Dried Cranberries,Dried Fruits,3.45,lb,Available,4.5,14,20
+1/15/2024,Nuts & Fruits Direct,Raisins,Dried Fruits,2.89,lb,Available,4.4,14,25
+1/15/2024,Spice World Trading,Cinnamon Ground,Spices & Seasonings,8.9,lb,Available,4.8,21,5
+1/15/2024,Spice World Trading,Nutmeg Ground,Spices & Seasonings,15.67,lb,Available,4.7,21,2
+1/15/2024,Spice World Trading,Ginger Ground,Spices & Seasonings,9.45,lb,Available,4.6,21,5
+1/15/2024,Spice World Trading,Cardamom Ground,Spices & Seasonings,28.9,lb,Available,4.9,28,1
+1/15/2024,Oil & Fats Supply,Vegetable Oil,Oils & Fats,2.34,gallon,Available,4.3,3,8
+1/15/2024,Oil & Fats Supply,Coconut Oil,Oils & Fats,5.67,gallon,Available,4.6,7,4
+1/15/2024,Specialty Ingredients,Almond Extract,Flavorings,18.9,4oz,Available,4.8,14,12
+1/15/2024,Specialty Ingredients,Lemon Extract,Flavorings,12.45,4oz,Available,4.7,14,18
+1/22/2024,King Arthur Flour Co,Pastry Flour,Flour & Grains,1.05,lb,Available,4.9,5,25
+1/22/2024,King Arthur Flour Co,Semolina Flour,Flour & Grains,1.23,lb,Available,4.4,5,20
+1/22/2024,Premium Dairy Supply,Buttermilk,Dairy Products,1.67,quart,Available,4.5,2,12
+1/22/2024,Premium Dairy Supply,Mascarpone,Dairy Products,8.9,lb,Available,4.8,3,5
+1/22/2024,Farm Fresh Eggs Inc,Egg Yolks,Dairy Products,4.56,32oz,Available,4.7,1,8
+1/22/2024,Sweet Supply Co,Maple Syrup,Sweeteners,12.34,32oz,Available,4.9,10,6
+1/22/2024,Sweet Supply Co,Agave Nectar,Sweeteners,8.67,32oz,Available,4.6,14,8
+1/22/2024,European Imports,Cream of Tartar,Leavening Agents,3.45,4oz,Available,4.8,7,24
+1/22/2024,European Imports,Potassium Bitartrate,Leavening Agents,4.23,8oz,Available,4.7,14,12
+1/22/2024,Artisan Chocolate Co,Milk Chocolate Chips,Chocolate & Cocoa,4.45,lb,Available,4.6,14,10
+1/22/2024,Artisan Chocolate Co,Chocolate Liquor,Chocolate & Cocoa,6.78,lb,Available,4.9,21,5
+1/22/2024,Vanilla Extract Inc,Almond Paste,Specialty Ingredients,7.89,lb,Limited,4.8,21,8
+1/29/2024,Nuts & Fruits Direct,Pecans Chopped,Nuts & Seeds,9.45,lb,Available,4.8,7,8
+1/29/2024,Nuts & Fruits Direct,Hazelnuts,Nuts & Seeds,8.67,lb,Available,4.7,7,10
+1/29/2024,Nuts & Fruits Direct,Dried Blueberries,Dried Fruits,4.23,lb,Available,4.6,14,15
+1/29/2024,Nuts & Fruits Direct,Dried Cherries,Dried Fruits,5.67,lb,Available,4.5,14,12
+1/29/2024,Spice World Trading,Vanilla Bean Paste,Spices & Seasonings,34.56,8oz,Available,4.9,28,3
+1/29/2024,Spice World Trading,Allspice Ground,Spices & Seasonings,7.89,lb,Available,4.6,21,8
+1/29/2024,Spice World Trading,Cloves Ground,Spices & Seasonings,12.34,lb,Available,4.7,21,4
+1/29/2024,Spice World Trading,Orange Zest Dried,Spices & Seasonings,23.45,lb,Available,4.8,21,2
+1/29/2024,Oil & Fats Supply,Olive Oil Extra Virgin,Oils & Fats,12.45,gallon,Available,4.8,5,3
+1/29/2024,Oil & Fats Supply,Sunflower Oil,Oils & Fats,3.89,gallon,Available,4.4,3,6
+1/29/2024,Specialty Ingredients,Rose Water,Flavorings,15.67,8oz,Available,4.7,21,6
+1/29/2024,Specialty Ingredients,Orange Blossom Water,Flavorings,18.9,8oz,Available,4.6,21,4
+2/5/2024,King Arthur Flour Co,Gluten-Free Flour,Flour & Grains,2.45,lb,Available,4.5,7,15
+2/5/2024,King Arthur Flour Co,Almond Flour,Flour & Grains,8.9,lb,Available,4.8,10,8
+2/5/2024,Premium Dairy Supply,Greek Yogurt,Dairy Products,3.45,32oz,Available,4.6,2,12
+2/5/2024,Premium Dairy Supply,Ricotta Cheese,Dairy Products,4.67,lb,Available,4.7,2,10
+2/5/2024,Farm Fresh Eggs Inc,Quail Eggs,Specialty Eggs,8.9,dozen,Limited,4.9,3,6
+2/5/2024,Sweet Supply Co,Coconut Sugar,Sweeteners,3.78,lb,Available,4.5,14,20
+2/5/2024,Sweet Supply Co,Stevia Extract,Sweeteners,23.45,4oz,Available,4.3,21,12
+2/5/2024,European Imports,Sourdough Starter,Fermentation,12.34,16oz,Available,4.8,7,4
+2/5/2024,European Imports,Active Sourdough Culture,Fermentation,15.67,8oz,Available,4.9,14,2
+2/5/2024,Artisan Chocolate Co,Ruby Chocolate,Chocolate & Cocoa,12.45,lb,Limited,4.7,28,3
+2/5/2024,Artisan Chocolate Co,Cacao Nibs,Chocolate & Cocoa,6.78,lb,Available,4.8,14,8
+2/5/2024,Vanilla Extract Inc,Bourbon Vanilla,Flavorings,45.67,8oz,Available,4.9,28,2
+2/12/2024,Nuts & Fruits Direct,Pistachio Chopped,Nuts & Seeds,12.34,lb,Available,4.7,10,5
+2/12/2024,Nuts & Fruits Direct,Macadamia Nuts,Nuts & Seeds,15.67,lb,Available,4.8,10,4
+2/12/2024,Nuts & Fruits Direct,Apricots Dried,Dried Fruits,4.89,lb,Available,4.5,14,15
+2/12/2024,Nuts & Fruits Direct,Figs Dried,Dried Fruits,6.23,lb,Available,4.6,14,10
+2/12/2024,Spice World Trading,Lavender Culinary,Spices & Seasonings,34.78,4oz,Available,4.8,21,6
+2/12/2024,Spice World Trading,Saffron Threads,Spices & Seasonings,89.45,0.5oz,Limited,4.9,35,1
+2/12/2024,Spice World Trading,Star Anise,Spices & Seasonings,18.9,8oz,Available,4.7,21,8
+2/12/2024,Spice World Trading,Fennel Seeds,Spices & Seasonings,6.78,lb,Available,4.6,21,12
+2/12/2024,Oil & Fats Supply,Avocado Oil,Oils & Fats,18.9,gallon,Available,4.7,7,2
+2/12/2024,Oil & Fats Supply,Grapeseed Oil,Oils & Fats,15.67,gallon,Available,4.5,5,3
+2/12/2024,Specialty Ingredients,Matcha Powder,Specialty Ingredients,45.67,8oz,Available,4.8,21,3
+2/12/2024,Specialty Ingredients,Tahini Paste,Specialty Ingredients,8.9,16oz,Available,4.6,14,8
+2/19/2024,King Arthur Flour Co,Oat Flour,Flour & Grains,1.67,lb,Available,4.4,7,25
+2/19/2024,King Arthur Flour Co,Coconut Flour,Flour & Grains,3.45,lb,Available,4.6,10,15
+2/19/2024,Premium Dairy Supply,Goat Cheese,Dairy Products,12.34,8oz,Available,4.8,3,6
+2/19/2024,Premium Dairy Supply,Creme Fraiche,Dairy Products,6.78,8oz,Available,4.7,2,12
+2/19/2024,Farm Fresh Eggs Inc,Duck Eggs,Specialty Eggs,6.78,dozen,Available,4.8,2,8
+2/19/2024,Sweet Supply Co,Date Syrup,Sweeteners,8.9,16oz,Available,4.6,14,8
+2/19/2024,Sweet Supply Co,Molasses,Sweeteners,3.45,32oz,Available,4.5,10,12
+2/19/2024,European Imports,Malt Extract,Fermentation,7.89,16oz,Available,4.7,14,6
+2/19/2024,European Imports,Diastatic Malt Powder,Fermentation,12.45,8oz,Available,4.8,21,4
+2/19/2024,Artisan Chocolate Co,Couverture Chocolate,Chocolate & Cocoa,15.67,lb,Available,4.9,21,2
+2/19/2024,Artisan Chocolate Co,Chocolate Ganache,Chocolate & Cocoa,8.9,lb,Limited,4.8,7,5
+2/19/2024,Vanilla Extract Inc,Madagascar Vanilla,Flavorings,67.89,4oz,Available,4.9,35,1
+2/26/2024,Nuts & Fruits Direct,Brazil Nuts,Nuts & Seeds,8.9,lb,Available,4.6,10,8
+2/26/2024,Nuts & Fruits Direct,Pine Nuts,Nuts & Seeds,23.45,lb,Available,4.8,14,3
+2/26/2024,Nuts & Fruits Direct,Dates Medjool,Dried Fruits,7.89,lb,Available,4.7,10,8
+2/26/2024,Nuts & Fruits Direct,Prunes,Dried Fruits,4.56,lb,Available,4.4,14,15
+2/26/2024,Spice World Trading,Cardamom Pods,Spices & Seasonings,45.67,8oz,Available,4.9,28,2
+2/26/2024,Spice World Trading,Turmeric Powder,Spices & Seasonings,5.67,lb,Available,4.5,21,10
+2/26/2024,Spice World Trading,Poppy Seeds,Spices & Seasonings,12.34,lb,Available,4.7,21,5
+2/26/2024,Spice World Trading,Sesame Seeds,Spices & Seasonings,4.89,lb,Available,4.6,14,15
+2/26/2024,Oil & Fats Supply,Walnut Oil,Oils & Fats,23.45,16oz,Available,4.8,10,4
+2/26/2024,Oil & Fats Supply,Hazelnut Oil,Oils & Fats,28.9,16oz,Available,4.7,14,3
+2/26/2024,Specialty Ingredients,Yuzu Powder,Specialty Ingredients,78.9,2oz,Limited,4.9,42,1
+2/26/2024,Specialty Ingredients,Black Sesame Paste,Specialty Ingredients,12.45,8oz,Available,4.6,21,6

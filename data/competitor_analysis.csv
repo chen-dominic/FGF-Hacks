@@ -1,0 +1,97 @@
+date,competitor,item_name,price,market_share,customer_rating,promotion_active,social_mentions,year
+2024-01,Panera Bread,Sourdough Loaf,4.29,15.2,4.5,FALSE,1847,2024
+2024-01,Panera Bread,Blueberry Muffin,3.19,12.8,4.3,TRUE,2156,2024
+2024-01,Panera Bread,Chocolate Croissant,3.89,11.4,4.4,FALSE,1923,2024
+2024-01,Corner Bakery,Artisan Baguette,3.99,9.7,4.2,TRUE,1456,2024
+2024-01,Corner Bakery,Lemon Scone,2.89,8.3,4.1,FALSE,1234,2024
+2024-01,Corner Bakery,Almond Croissant,4.19,7.9,4.3,TRUE,1678,2024
+2024-01,La Boulange,French Bread,3.79,6.8,4.6,FALSE,987,2024
+2024-01,La Boulange,Raspberry Danish,3.49,5.9,4.2,TRUE,1123,2024
+2024-01,La Boulange,Plain Croissant,2.99,8.1,4.4,FALSE,1567,2024
+2024-01,Great Harvest,Honey Whole Wheat,4.59,7.2,4.7,FALSE,1345,2024
+2024-01,Great Harvest,Banana Nut Muffin,3.39,6.4,4.5,TRUE,1789,2024
+2024-01,Great Harvest,Cinnamon Roll,4.79,5.3,4.8,FALSE,2134,2024
+2024-02,Panera Bread,Sourdough Loaf,4.39,14.8,4.4,TRUE,2156,2024
+2024-02,Panera Bread,Blueberry Muffin,3.29,13.1,4.2,FALSE,1987,2024
+2024-02,Panera Bread,Chocolate Croissant,3.99,11.7,4.5,TRUE,2234,2024
+2024-02,Corner Bakery,Artisan Baguette,4.09,9.4,4.1,FALSE,1323,2024
+2024-02,Corner Bakery,Lemon Scone,2.99,8.6,4,TRUE,1456,2024
+2024-02,Corner Bakery,Almond Croissant,4.29,8.2,4.4,FALSE,1543,2024
+2024-02,La Boulange,French Bread,3.89,7.1,4.5,TRUE,1098,2024
+2024-02,La Boulange,Raspberry Danish,3.59,6.2,4.3,FALSE,1234,2024
+2024-02,La Boulange,Plain Croissant,3.09,8.4,4.3,TRUE,1687,2024
+2024-02,Great Harvest,Honey Whole Wheat,4.69,7.5,4.6,TRUE,1456,2024
+2024-02,Great Harvest,Banana Nut Muffin,3.49,6.7,4.4,FALSE,1567,2024
+2024-02,Great Harvest,Cinnamon Roll,4.89,5.6,4.7,TRUE,2345,2024
+2024-03,Panera Bread,Sourdough Loaf,4.49,14.5,4.3,FALSE,1989,2024
+2024-03,Panera Bread,Blueberry Muffin,3.39,12.9,4.1,TRUE,2089,2024
+2024-03,Panera Bread,Chocolate Croissant,4.09,11.9,4.6,FALSE,2134,2024
+2024-03,Corner Bakery,Artisan Baguette,4.19,9.1,4,TRUE,1289,2024
+2024-03,Corner Bakery,Lemon Scone,3.09,8.9,3.9,FALSE,1378,2024
+2024-03,Corner Bakery,Almond Croissant,4.39,8.5,4.5,TRUE,1634,2024
+2024-03,La Boulange,French Bread,3.99,7.4,4.4,FALSE,1156,2024
+2024-03,La Boulange,Raspberry Danish,3.69,6.5,4.4,TRUE,1345,2024
+2024-03,La Boulange,Plain Croissant,3.19,8.7,4.2,FALSE,1723,2024
+2024-03,Great Harvest,Honey Whole Wheat,4.79,7.8,4.5,FALSE,1523,2024
+2024-03,Great Harvest,Banana Nut Muffin,3.59,7,4.3,TRUE,1645,2024
+2024-03,Great Harvest,Cinnamon Roll,4.99,5.9,4.6,FALSE,2456,2024
+2024-04,Panera Bread,Sourdough Loaf,4.59,14.2,4.2,TRUE,2123,2024
+2024-04,Panera Bread,Blueberry Muffin,3.49,12.6,4,FALSE,1934,2024
+2024-04,Panera Bread,Chocolate Croissant,4.19,12.2,4.7,TRUE,2287,2024
+2024-04,Corner Bakery,Artisan Baguette,4.29,8.8,3.9,FALSE,1234,2024
+2024-04,Corner Bakery,Lemon Scone,3.19,9.2,3.8,TRUE,1423,2024
+2024-04,Corner Bakery,Almond Croissant,4.49,8.8,4.6,FALSE,1567,2024
+2024-04,La Boulange,French Bread,4.09,7.7,4.3,TRUE,1234,2024
+2024-04,La Boulange,Raspberry Danish,3.79,6.8,4.5,FALSE,1456,2024
+2024-04,La Boulange,Plain Croissant,3.29,9,4.1,TRUE,1789,2024
+2024-04,Great Harvest,Honey Whole Wheat,4.89,8.1,4.4,TRUE,1634,2024
+2024-04,Great Harvest,Banana Nut Muffin,3.69,7.3,4.2,FALSE,1723,2024
+2024-04,Great Harvest,Cinnamon Roll,5.09,6.2,4.5,TRUE,2567,2024
+2024-05,Panera Bread,Sourdough Loaf,4.69,13.9,4.1,FALSE,1987,2024
+2024-05,Panera Bread,Blueberry Muffin,3.59,12.3,3.9,TRUE,2045,2024
+2024-05,Panera Bread,Chocolate Croissant,4.29,12.5,4.8,FALSE,2189,2024
+2024-05,Corner Bakery,Artisan Baguette,4.39,8.5,3.8,TRUE,1189,2024
+2024-05,Corner Bakery,Lemon Scone,3.29,9.5,3.7,FALSE,1367,2024
+2024-05,Corner Bakery,Almond Croissant,4.59,9.1,4.7,TRUE,1634,2024
+2024-05,La Boulange,French Bread,4.19,8,4.2,FALSE,1278,2024
+2024-05,La Boulange,Raspberry Danish,3.89,7.1,4.6,TRUE,1523,2024
+2024-05,La Boulange,Plain Croissant,3.39,9.3,4,FALSE,1834,2024
+2024-05,Great Harvest,Honey Whole Wheat,4.99,8.4,4.3,FALSE,1678,2024
+2024-05,Great Harvest,Banana Nut Muffin,3.79,7.6,4.1,TRUE,1789,2024
+2024-05,Great Harvest,Cinnamon Roll,5.19,6.5,4.4,FALSE,2634,2024
+2024-06,Panera Bread,Sourdough Loaf,4.79,13.6,4,TRUE,2234,2024
+2024-06,Panera Bread,Blueberry Muffin,3.69,12,3.8,FALSE,1923,2024
+2024-06,Panera Bread,Chocolate Croissant,4.39,12.8,4.9,TRUE,2345,2024
+2024-06,Corner Bakery,Artisan Baguette,4.49,8.2,3.7,FALSE,1134,2024
+2024-06,Corner Bakery,Lemon Scone,3.39,9.8,3.6,TRUE,1423,2024
+2024-06,Corner Bakery,Almond Croissant,4.69,9.4,4.8,FALSE,1678,2024
+2024-06,La Boulange,French Bread,4.29,8.3,4.1,TRUE,1345,2024
+2024-06,La Boulange,Raspberry Danish,3.99,7.4,4.7,FALSE,1634,2024
+2024-06,La Boulange,Plain Croissant,3.49,9.6,3.9,TRUE,1923,2024
+2024-06,Great Harvest,Honey Whole Wheat,5.09,8.7,4.2,TRUE,1723,2024
+2024-06,Great Harvest,Banana Nut Muffin,3.89,7.9,4,FALSE,1834,2024
+2024-06,Great Harvest,Cinnamon Roll,5.29,6.8,4.3,TRUE,2734,2024
+2024-07,Panera Bread,Sourdough Loaf,4.89,13.3,3.9,FALSE,2089,2024
+2024-07,Panera Bread,Blueberry Muffin,3.79,11.7,3.7,TRUE,2134,2024
+2024-07,Panera Bread,Chocolate Croissant,4.49,13.1,5,FALSE,2456,2024
+2024-07,Corner Bakery,Artisan Baguette,4.59,7.9,3.6,TRUE,1089,2024
+2024-07,Corner Bakery,Lemon Scone,3.49,10.1,3.5,FALSE,1367,2024
+2024-07,Corner Bakery,Almond Croissant,4.79,9.7,4.9,TRUE,1723,2024
+2024-07,La Boulange,French Bread,4.39,8.6,4,FALSE,1423,2024
+2024-07,La Boulange,Raspberry Danish,4.09,7.7,4.8,TRUE,1678,2024
+2024-07,La Boulange,Plain Croissant,3.59,9.9,3.8,FALSE,1987,2024
+2024-07,Great Harvest,Honey Whole Wheat,5.19,9,4.1,FALSE,1789,2024
+2024-07,Great Harvest,Banana Nut Muffin,3.99,8.2,3.9,TRUE,1923,2024
+2024-07,Great Harvest,Cinnamon Roll,5.39,7.1,4.2,FALSE,2834,2024
+2024-08,Panera Bread,Sourdough Loaf,4.99,13,3.8,TRUE,2345,2024
+2024-08,Panera Bread,Blueberry Muffin,3.89,11.4,3.6,FALSE,2089,2024
+2024-08,Panera Bread,Chocolate Croissant,4.59,13.4,5.1,TRUE,2567,2024
+2024-08,Corner Bakery,Artisan Baguette,4.69,7.6,3.5,FALSE,1034,2024
+2024-08,Corner Bakery,Lemon Scone,3.59,10.4,3.4,TRUE,1423,2024
+2024-08,Corner Bakery,Almond Croissant,4.89,10,5,FALSE,1789,2024
+2024-08,La Boulange,French Bread,4.49,8.9,3.9,TRUE,1523,2024
+2024-08,La Boulange,Raspberry Danish,4.19,8,4.9,FALSE,1723,2024
+2024-08,La Boulange,Plain Croissant,3.69,10.2,3.7,TRUE,2034,2024
+2024-08,Great Harvest,Honey Whole Wheat,5.29,9.3,4,TRUE,1834,2024
+2024-08,Great Harvest,Banana Nut Muffin,4.09,8.5,3.8,FALSE,1987,2024
+2024-08,Great Harvest,Cinnamon Roll,5.49,7.4,4.1,TRUE,2934,2024
