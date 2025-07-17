@@ -51,7 +51,7 @@ export default function Results({ data, loading }: Props) {
           <img
             src="idea-color.png"
             alt="lightbulb"
-            className="h-32 w-32 opacity-15 grayscale"
+            className="h-32 w-32 opacity-40 grayscale"
           />
           <p className="text-white font-medium opacity-30">
             Turn your business data into bold product ideas.
@@ -63,24 +63,24 @@ export default function Results({ data, loading }: Props) {
             <li>
               <span className="font-bold">Upload your data</span>
               <br />
-              <span className="text-sm text-gray-400">
+              <span className="text-sm text-gray-200">
                 Add files like sales reports, customer reviews, competitor info, or market trends.
               </span>
             </li>
             <li>
               <span className="font-bold">Describe your focus</span>
               <br />
-              <span className="text-sm text-gray-400">
+              <span className="text-sm text-gray-200">
                 e.g., “Launch a Gen Z summer snack line” or “Innovate in sustainable packaging”
               </span>
             </li>
             <li>
               <span className="font-bold">Let the agents cook</span>
               <br />
-              <span className="text-sm text-gray-400">
+              <span className="text-sm text-gray-200">
                 Our AI squad analyzes your input and delivers:
               </span>
-              <ul className="list-disc list-inside mt-2 pl-4 text-sm text-gray-400 space-y-1">
+              <ul className="list-disc list-inside mt-2 pl-4 text-sm text-gray-200 space-y-1">
                 <li>🍿 New product ideas</li>
                 <li>🧠 Launch strategy</li>
                 <li>🎯 Target demographics</li>
@@ -89,6 +89,7 @@ export default function Results({ data, loading }: Props) {
             </li>
           </ol>
         </div>
+        <h1 className="text-white text-4xl text-center font-semibold mt-10 opacity-50">DashAI</h1>
       </div>
     );
   }
